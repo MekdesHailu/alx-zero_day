@@ -1,5 +1,5 @@
 !#bin/bash
-0x03-git
+pwd
 echo "# alx-zero_day" >> README.md
 git init
 git add README.md
